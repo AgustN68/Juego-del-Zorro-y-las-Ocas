@@ -3,6 +3,7 @@
 ## Descripción
 
 **"El Zorro y las Ocas"** es un juego de **jugador contra jugador** en el que un jugador controla al zorro y otro a las ocas. El objetivo del zorro es comer todas las ocas, mientras que las ocas deben intentar atrapar al zorro. El juego se desarrolla en un tablero con reglas similares a las del juego de las damas.
+Realizado en Intelx86.
 
 ### Objetivos del Juego:
 - **Zorro:** Comer todas las ocas saltando sobre ellas y ganando turnos adicionales por cada oca comida.
@@ -31,7 +32,7 @@
 
 ---
 
-## Instrucciones de Uso
+## Instrucciones de Uso para Linux
 
 ### 1. Ensamblar el archivo principal:
 ```bash
